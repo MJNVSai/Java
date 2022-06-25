@@ -18,6 +18,7 @@ This Repository will contains my java practice progeams and knowledge
 - [Perfect Number](https://java.mjnvsai.me/Perfect.java)
 - [Strong Number](https://java.mjnvsai.me/Strong.java)
 - [Biggest of 3 Numbers](https://java.mjnvsai.me/Bignum.java)
+- [fibonacci](https://java.mjnvsai.me/fibonacci.java)
 
 **WEEK - 3**
 - [Odd Even Array](https://java.mjnvsai.me/Odd_Even.java)
